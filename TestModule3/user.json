@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "380e",
+      "name": "carlos",
+      "email": "carlos@mail",
+      "password": "1234",
+      "phone": "123412",
+      "enrollNumber": "212324kjjj",
+      "dateOfAdmission": "2025-03-12",
+      "role": "admin"
+    },
+    {
+      "name": "andrea",
+      "email": "andrea@mail",
+      "phone": "31456326",
+      "enrollNumber": "312321s",
+      "dateOfAdmission": "2025-03-12",
+      "id": "380f"
+    },
+    {
+      "id": "a1d3",
+      "name": "Pedro",
+      "phone": "317485",
+      "email": "pedro@mail",
+      "password": "1478",
+      "role": "user"
+    },
+    {
+      "id": "28b9",
+      "name": "Andres",
+      "role": "admin",
+      "phone": "352265",
+      "email": "andres@mail",
+      "password": "1234"
+    }
+  ],
+  "events": [
+    {
+      "nombreEvento": "Pedro's Party ",
+      "fecha": "2025-07-16",
+      "invitados": 152,
+      "descripcion": "Welcome to the best party of Riwi",
+      "id": "1"
+    },
+    {
+      "nombreEvento": "For Edit Party",
+      "fecha": "2025-07-25",
+      "invitados": 1,
+      "descripcion": "You can edit my information",
+      "id": "2"
+    },
+    {
+      "nombreEvento": "For Delete Party",
+      "fecha": "2025-07-27",
+      "invitados": 5262,
+      "descripcion": "You can Delete Me if you want!",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "nombreEvento": "Birthday Party",
+      "fecha": "2025-07-26",
+      "invitados": 250,
+      "descripcion": "Your Birhtday party"
+    }
+  ]
+}
